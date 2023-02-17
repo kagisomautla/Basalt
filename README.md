@@ -1,16 +1,12 @@
-# basalt
+# Basalt Assessment
 
-A new Flutter project.
+This new project is an assessment for Basalt.
 
-## Getting Started
+## Assessment Requirements
 
-This project is a starting point for a Flutter application.
+Using the marketstack.com API, build a flutter app that shows the stock market report of 10 random
+companies. Add a date range and an auto complete search box to the UI. The autocomplete feature
+should filter the list returned from the API. Also, notify the user if the device is offline. Add a
+production-grade README file to your project and upload it on GitHub.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
