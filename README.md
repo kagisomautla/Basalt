@@ -1,8 +1,4 @@
-# Basalt Assessment
-
-This new project is an assessment for Basalt.
-
-## Assessment Requirements
+## Building Requirements
 
 Using the marketstack.com API, build a flutter app that shows the stock market report of 10 random
 companies. Add a date range and an auto complete search box to the UI. The autocomplete feature
@@ -22,7 +18,7 @@ flutter build apk
 
 2. Once the apk has been created, retrieve it from the build folder of the application and install it on the physical device.
 ``
-/Users/<your-desktop>/<location-of-application>/basalt/build/app/outputs/apk/debug
+/Users/<your-desktop>/<location-of-application>/<application-name>/build/app/outputs/apk/debug
 ``
 
 
